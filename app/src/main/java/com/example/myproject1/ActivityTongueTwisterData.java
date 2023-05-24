@@ -97,6 +97,21 @@ public class ActivityTongueTwisterData extends AppCompatActivity {
         if (aaa==19){
             illustration.setImageResource(R.drawable.b7);
         }
+        if (aaa==20){
+            illustration.setImageResource(R.drawable.b8);
+        }
+        if (aaa==21){
+            illustration.setImageResource(R.drawable.b9);
+        }
+        if (aaa==22){
+            illustration.setImageResource(R.drawable.b10);
+        }
+        if (aaa==23){
+            illustration.setImageResource(R.drawable.b11);
+        }
+        if (aaa==24){
+            illustration.setImageResource(R.drawable.b12);
+        }
 
         //кнопочка назад (ГОТОВО)
         back = findViewById(R.id.back);

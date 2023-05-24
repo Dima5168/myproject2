@@ -107,7 +107,7 @@
         android:textColor="@color/black"
         android:layout_marginEnd="32dp"
         android:layout_marginBottom="20dp"
-        android:text="8"
+        android:text="Дуб"
         app:layout_constraintBottom_toTopOf="@+id/button10"
         app:layout_constraintEnd_toEndOf="parent"
         />
@@ -121,7 +121,7 @@
         android:textSize="16sp"
         android:layout_marginStart="32dp"
         android:layout_marginBottom="20dp"
-        android:text="9"
+        android:text="Пекарь "
         app:layout_constraintBottom_toTopOf="@+id/button11"
         app:layout_constraintStart_toStartOf="parent" />
 
@@ -134,7 +134,7 @@
         android:layout_marginEnd="32dp"
         android:textSize="16sp"
         android:layout_marginBottom="20dp"
-        android:text="10"
+        android:text="Обезьяне"
         app:layout_constraintBottom_toTopOf="@+id/button12"
         app:layout_constraintEnd_toEndOf="parent" />
 
@@ -145,7 +145,7 @@
         android:layout_marginStart="32dp"
         android:layout_marginBottom="108dp"
         android:backgroundTint="@color/orenge"
-        android:text="11"
+        android:text="Валя"
         android:textColor="@color/black"
         android:textSize="16sp"
         app:layout_constraintBottom_toTopOf="@+id/back"
@@ -158,7 +158,7 @@
         android:layout_marginEnd="32dp"
         android:layout_marginBottom="108dp"
         android:backgroundTint="@color/orenge"
-        android:text="12"
+        android:text="Дед Додон"
         android:textColor="@color/black"
         android:textSize="16sp"
         app:layout_constraintBottom_toTopOf="@+id/forward"

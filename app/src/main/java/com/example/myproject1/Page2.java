@@ -156,8 +156,11 @@ public class Page2 extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 illustration1 = "20";
-                title = "" ;
-                text = "";
+                title = "Дуб" ;
+                text = "Бык буянил перед дубом,\n" +
+                        "Тряс под дубом бурым чубом.\n" +
+                        "Дуб схватил его за чуб.\n" +
+                        "-Не буянь! – воскликнул дуб.";
                 TongueTwisterData data = new TongueTwisterData(title,text, illustration1);
                 intent.putExtra("data1", data);
                 startActivity(intent);
@@ -169,8 +172,9 @@ public class Page2 extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 illustration1 = "21";
-                title = "" ;
-                text = "";
+                title = "Пекарь " ;
+                text = "Бублик, баранку, батон и буханку\n" +
+                        "Пекарь из теста испек спозаранку.";
                 TongueTwisterData data = new TongueTwisterData(title,text, illustration1);
                 intent.putExtra("data1", data);
                 startActivity(intent);
@@ -182,8 +186,9 @@ public class Page2 extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 illustration1 = "22";
-                title = "" ;
-                text = "";
+                title = "Обезьяне" ;
+                text = "Забавной обезьяне бросили бананы,\n" +
+                        "Бросили бананы забавной обезьяне.";
                 TongueTwisterData data = new TongueTwisterData(title,text, illustration1);
                 intent.putExtra("data1", data);
                 startActivity(intent);
@@ -195,8 +200,9 @@ public class Page2 extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 illustration1 = "23";
-                title = "" ;
-                text = "";
+                title = "Валя" ;
+                text = "Валя на проталинке промочила валенки. \n" +
+                        "Валенки у Валеньки сохнут на завалинке.";
                 TongueTwisterData data = new TongueTwisterData(title,text, illustration1);
                 intent.putExtra("data1", data);
                 startActivity(intent);
@@ -208,8 +214,9 @@ public class Page2 extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 illustration1 = "24";
-                title = "" ;
-                text = "";
+                title = "Дед Додон" ;
+                text = "Дед Додон в дуду дудел,\n" +
+                        "Димку дед дудой задел.";
                 TongueTwisterData data = new TongueTwisterData(title,text, illustration1);
                 intent.putExtra("data1", data);
                 startActivity(intent);
